@@ -34,9 +34,15 @@ https://user-images.githubusercontent.com/122300536/236883434-98758c56-7360-4b49
 ## Swift Package Manager
 - File > Swift Packages > Add Package Dependency
 - Add 
+
 ```bash
-    Alamofire   "https://github.com/Alamofire/Alamofire.git"
+    Alamofire  "https://github.com/Alamofire/Alamofire.git"
 ```
-    FeedKit    "https://github.com/nmdias/FeedKit.git"
+
+```bash
+    FeedKit  "https://github.com/nmdias/FeedKit.git"
 ```
-    Kingfisher   "https://github.com/onevcat/Kingfisher.git"
+
+```bash
+    Kingfisher  "https://github.com/onevcat/Kingfisher.git"
+```
